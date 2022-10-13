@@ -28,8 +28,16 @@ function AboutUs() {
           <AboutUsChart/>
         </div>
 
+        <div className='aboutUsCardStyle'>
+          <AboutUsProjectCard/>
+          <AboutUsProjectCard/>
+          <AboutUsProjectCard/>
+        </div>
 
-
+        <div>
+          <Footer/>
+        </div>
+        
     </div>
   )
 }

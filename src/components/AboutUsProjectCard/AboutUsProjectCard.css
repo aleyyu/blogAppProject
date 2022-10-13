@@ -4,6 +4,7 @@
     border: 1px solid #AAA422;
     background-color: #F6F4D2;
     flex-direction: column;
+    margin: 10px;
 }
 
 .cardTitle{

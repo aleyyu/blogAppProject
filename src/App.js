@@ -10,7 +10,7 @@ import Footer from './components/Footer';
 
 import AboutUs from './pages/AboutUs/AboutUs';
 
-import AboutUsProjectCard from './components/AboutUsProjectCard/AboutUsProjectCard'
+
 
 function App() {
   return (
@@ -25,17 +25,15 @@ function App() {
         <Card className='Card1'/>
       </div>
 
-      <div>
-        <AboutUsProjectCard/>
-        <AboutUsProjectCard/>
-        <AboutUsProjectCard/>
-      </div>
+      
 
       <div>
         <Footer/>
       </div>
 
-      
+      <div>
+        <AboutUs/>
+      </div>
 
     
 
