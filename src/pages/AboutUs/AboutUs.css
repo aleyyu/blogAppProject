@@ -1,0 +1,14 @@
+.chart {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #000;
+}
+
+
+.projectCard{
+    display: flex;
+    background-color: #000;
+    border: 1px solid #000;
+}
